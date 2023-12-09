@@ -37,10 +37,7 @@
 
 </div>
 
-<div>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user=Md-Nazmus-Sakib/svg/avgupta456/langs)](https://githubtrends.io)
-</div>
 
 
 
