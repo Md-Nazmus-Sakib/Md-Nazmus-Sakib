@@ -9,7 +9,6 @@
 </div>
 
 
-&ring=faaf0c
 
 ## Skills
 <div style="display: flex; justify-content: center; margin-bottom: 50px; gap:16px ">
