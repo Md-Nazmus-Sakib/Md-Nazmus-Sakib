@@ -7,7 +7,35 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Md-Nazmus-Sakib&theme=ambient-gradient&ring=05f721&currStreakNum=eff705&&sideNums=05f721&currStreakLabel=eff705&fire=eff705&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=500)](https://git.io/streak-stats)
 </div>
+# Projects
 
+<div> 
+
+1. [SkillSyncHub]( https://skill-sync-hub.web.app)
+
+- Admin Hub: User and Teacher Requests, Class Management Authority
+- Empowering Teacher: Assignment Management and Progress Tracking for Teacher's class
+- Learn Connect: Student Dashboard - Assignments, Feedback, Ratings.
+
+Technology: React JS, Tailwind CSS, JavaScript, Node JS, Express, Firebase, MongoDB.
+
+2.[Food Share Hub]( https://food-share-hub-f2787.web.app/)
+
+- Foodstuff: User-Driven Food Listings and Management with Request System
+- Share Table: Food Request Management - Donor Details, Requests, Delivery Updates
+- Fresh Plate: Home to Top Six High-Quality Foods, Explore All Available with Nearest Expiry.
+
+Technology: React JS, Node JS, Express, Firebase, MongoDB, Flowbite, Tailwind.
+
+3.[NS ROYAL EVENT]( https://ns-royal-event.web.app/)
+
+- Discover six specialized wedding packages; click for detailed insights into each for your personalized 
+celebration
+- Explore our shop page with six distinct categories, allowing you to select precisely what you need.
+
+Technology: React JS, Firebase, Tailwind, Daisy UI
+
+</div>
 
 
 ## Skills
