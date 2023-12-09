@@ -11,17 +11,17 @@
 
 
 ## Skills
-<div style="display: flex; justify-content: center; margin-bottom: 50px; gap:16px ">
+<div  align="center" style="display: flex; justify-content: center; margin-bottom: 50px; gap:16px ">
 <img src="./Images/Icons/React-Dark.svg" width="200" height="100" alt="React">
 <img src="./Images/Icons/TailwindCSS-Dark.svg" width="200" height="100" alt="Tailwind">
 <img src="./Images/Icons/Bootstrap.svg" width="200" height="100" alt="Tailwind">
 </div>
-<div style="display: flex; justify-content: center; margin-bottom: 50px; gap:16px ">
+<div  align="center" style="display: flex; justify-content: center; margin-bottom: 50px; gap:16px ">
 <img src="./Images/Icons/JavaScript.svg" width="200" height="100" alt="JavaScript">
 <img src="./Images/Icons/NodeJS-Dark.svg" width="200" height="100" alt="NodeJs">
 <img src="./Images/Icons/ExpressJS-Dark.svg" width="200" height="100" alt="ExpressJs">
 </div>
-<div style="display: flex;justify-content: center; gap:16px ">
+<div  align="center" style="display: flex;justify-content: center; gap:16px ">
 <img src="./Images/Icons/MongoDB.svg" width="200" height="100" alt="MongoDb">
 <img src="./Images/Icons/CSS.svg" width="200" height="100" alt="Css">
 <img src="./Images/Icons/HTML.svg" width="200" height="100" alt="Html">
@@ -29,10 +29,14 @@
 
 # Current Overview
 
-- 🌱 I’m currently learning on Next.js
-- 👯 I’m looking to collaborate on open source project.
-- 🤔 I'm seeking help from individuals to create a web page.
-- 💬 Ask me about Web Design and Development.
+<div align="center">
+
+- 🌱 I’m currently learning on advanced technologies in React.js, Node.js, and MongoDB are driving innovation in web development.
+- 👯 I’m looking to collaborate on exciting projects that help me grow and excel in MERN stack development.
+- 🤔 I'm seeking help from enhancement strategies for boosting performance and efficiency in MERN stack applications."
+- 💬 Open to discussing anything related to MERN stack development.
+
+</div>
 
 
 
